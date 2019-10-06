@@ -3,7 +3,7 @@ def using_push(array,string)
   array.push(next_color)
 end
 
-def using_unshift
+def using_unshift(array,string)
   first_color = "red"
   array.unshift(first_color)
 end
