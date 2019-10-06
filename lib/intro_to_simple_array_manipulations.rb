@@ -10,5 +10,4 @@ end
 
 def using_pop(array)
   array.pop 
-  puts "Antarctica"
 end
